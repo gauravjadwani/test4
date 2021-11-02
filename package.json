@@ -69,7 +69,8 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "@react-native-async-storage/async-storage": "^1.15.9"
   },
   "jest": {
     "preset": "react-native",
@@ -149,5 +150,8 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+
   }
 }
